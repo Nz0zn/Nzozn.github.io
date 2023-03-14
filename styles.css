@@ -1,0 +1,17 @@
+h1{
+  font-family: 'Montderrat', sans-sans-serif;
+  text-align: center;
+    color: white;
+}
+body{
+  background-color: #101010;
+  color: white;
+  .block1 {
+    border: 10px solid;
+    border-color: white;
+    padding: 5px;
+  }
+
+
+
+}
